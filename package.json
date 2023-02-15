@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Redhead80/sse-ws-1.git"
+    "url": "git+https://github.com/NastyaKatyushkina/sse-ws-1.git"
   },
-  "author": "Redhead80",
+  "author": "NastyaKatyushkina",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Redhead80/sse-ws-1/issues"
+    "url": "https://github.com/NastyaKatyushkina/sse-ws-1/issues"
   },
-  "homepage": "https://github.com/Redhead80/sse-ws-1#readme",
+  "homepage": "https://github.com/NastyaKatyushkina/sse-ws-1#readme",
   "devDependencies": {
     "@babel/cli": "^7.12.1",
     "@babel/core": "^7.12.3",
