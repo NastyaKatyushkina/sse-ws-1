@@ -1,6 +1,6 @@
 import Chat from './chat';
 
-const server = 'wss://my-first-project-d6ux.onrender.com';
+const server = 'http://localhost:7070/';
 const login = new Chat(server);
 
 login.init();
