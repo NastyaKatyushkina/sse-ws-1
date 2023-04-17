@@ -8,7 +8,7 @@ export default class Chat {
 	}
 
 	init() {
-		this.ws = new WebSocket("http://localhost:7070")
+		this.ws = new WebSocket("wss:/ahj-homeworks-ssews-back.onrender.com/ws")
 
 		this.ws.addEventListener("message", response => {
 			const data = JSON.parse(response.data)
